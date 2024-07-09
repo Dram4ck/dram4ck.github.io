@@ -2,6 +2,7 @@
 layout: single
 permalink: /active-directory/mssql
 hidden: true 
+author_profile: true
 ---
 
-page test
+MSSQL here
