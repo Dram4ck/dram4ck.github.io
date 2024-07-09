@@ -88,7 +88,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "Dram4ck"
+  username               : # "Dram4ck"
 facebook:
   username               :
   app_id                 :
