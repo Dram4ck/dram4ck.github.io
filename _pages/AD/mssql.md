@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /AD/mssql
+permalink: /Active-Directory/mssql
 hidden: true
 author: Dram4ck
 ---
