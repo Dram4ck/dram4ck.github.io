@@ -14,9 +14,6 @@
   #   url: /sitemap/
 main:
   - title: Active Directory
-    children:
-      - title: "AD"
-        url: /active-directory
-      - title: "mssql"
-        url: /active-directory/mssql
+    url: /active-directory
+
 
