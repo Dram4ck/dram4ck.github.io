@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Active-Directory/mssql
+permalink: /active-directory/mssql
 hidden: true 
 ---
 
