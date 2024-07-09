@@ -2,9 +2,8 @@
 layout: splash
 permalink: /AD/mssql
 hidden: true
-     
+author: Dram4ck
 ---
-<p style="text-align: center;">
+
 # MSSQL
 page test
-</p>
