@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /AD/mssql
 hidden: true
 author: Dram4ck
