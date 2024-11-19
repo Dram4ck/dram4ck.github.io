@@ -19,7 +19,7 @@ title                    : "Dram4ck"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dram4ck"
-description              : "Another random Redteamer"
+description              : "Another random RedTeamer"
 url                      : "https://dram4ck.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "dram4ck/dram4ck.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
